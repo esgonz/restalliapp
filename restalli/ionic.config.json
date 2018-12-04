@@ -1,0 +1,7 @@
+{
+  "name": "restalli",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
